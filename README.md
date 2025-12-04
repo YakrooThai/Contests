@@ -8,6 +8,9 @@ A collection of projects and resources prepared for participation in different t
 
 https://www.instructables.com/Retro-Futuristic-Hybrid-Clock/
 
+https://www.youtube.com/watch?v=-eGooq75AuA
+
+
 https://www.youtube.com/shorts/k81SWZDNNIo
 
 https://www.youtube.com/shorts/zYWeT4hWfn0

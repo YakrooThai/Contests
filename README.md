@@ -1,6 +1,9 @@
 # Contests
 A collection of projects and resources prepared for participation in different technical and innovation contests.
 
+https://www.youtube.com/watch?v=jjOU5MmEwaE
+
+https://www.youtube.com/watch?v=h3mmARd8hOU
 
 <img width="1551" height="1069" alt="hybb 2png" src="https://github.com/user-attachments/assets/541dded8-3085-49f9-8124-7502018590b1" />
 

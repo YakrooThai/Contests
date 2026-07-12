@@ -1,6 +1,10 @@
 # Contests
 A collection of projects and resources prepared for participation in different technical and innovation contests.
 
+<img width="1401" height="1123" alt="holo oled3" src="https://github.com/user-attachments/assets/db870dd3-8261-48df-a23c-6c806df692ad" />
+
+https://www.youtube.com/watch?v=4Vncdmcu4JE
+
 https://www.youtube.com/watch?v=jjOU5MmEwaE
 
 https://www.youtube.com/watch?v=h3mmARd8hOU
